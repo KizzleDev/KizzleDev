@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently learing Laravel framework
-Pronouns: he/him
-
-Fun fact: I hate pierogi
-How to reach me: 
-discord= psgetprocesssectionbaseaddress
+I'm currently working on Kernel Driver 
