@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learing Laravel framework
+Pronouns: he/him
+Fun fact: I hate pierogi
+How to reach me: 
+discord= psgetprocesssectionbaseaddress
